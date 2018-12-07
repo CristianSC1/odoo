@@ -1,0 +1,12 @@
+﻿1)Una vez que realizamos la creacion del modulo procedemos a crear nuestro modelos,
+ en este caso usamos dos archivos, en el primero 
+    definimos las base de datos creadas por nostros.
+2) En la funcionalidad del modulo colacamos logica de programacion jalalando solo a contactos que tengan el 
+campo instructor en true o la etiqueta teach
+.
+3)En la Listando y Creando sesiones el codigo de python. Si solo modificamos el codigo xml.
+4) Podemos heredar vistas de otros modulos. Esmuy interesante como podemos heredar vistas y poder modificarlas para 
+ agregar campos nuevos o cambiarle el estilo.
+
+5) Podemos heredar modelos, esto para agregar campos en otras
+ entidades.
