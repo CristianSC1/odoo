@@ -1,0 +1,7 @@
+1)Se puede instalar en cualquier sistema operativo pero odoo recomienda linux.
+2)En la página de odoo se encuentra el instalador para poder descargarlo tenemos que proporcionar 
+algunos datos de nuestra empresa.
+3)Odoo11 esta disponible esta disponible en cualquier idioma.
+4)Odoo funciona con el sistema de gestion de base de datos PostgreSql y nos consulta 
+si deseamos instalar o no en caso de tenerlo instalado o no.
+5)Al instalar odoo creamos nuestra primera base que sera independiente al resto que creemos mas adelante.

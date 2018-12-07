@@ -1,0 +1,7 @@
+1)Logramos crear nuestro primer modulo plantilla mediate el codigo 
+"c:\Program Files (x86)\Odoo 11.0\python\python.exe" "c:\Program Files (x86)\Odoo 11.0\server\odoo-bin" scaffold testmodulo1 odoo/addons. 
+2)El modulo creado en el laboratorio tiene una estructura basica donde el archivo __manifest__.py permite describir al modulo poniendole nombre,
+dependencias, autor, descripcion del modulo, etc.
+3)El archivo __init__.py permite inicializar los archivos python como por ejemplo los modelos, data, __manifest__.py.
+4)En la carperta View se encuentra los archivos XML de vista estas vistas seran visualizados en odoo.
+5)La carpeta models se encuentra los archivos python en ellas crearemos nuevos campos o datos para la base de datos.

@@ -1,0 +1,9 @@
+1)Se logro implementar codigo con conocimientos adquiridos de internet para terminar el modulo de este laboratorio.
+2)el _name es el nombre de la tabla o el modelo que crearemos.
+3)__inherit es un atributo para poder eredar de otros modulos.
+4)many2one hace referencia hacia una tabla completa y 
+  one2many hace referencia hacia un campo específico de una tabla 
+  específica, encadenando la relación iniciada por el campo many2one
+5)En ODOO existen distintos tipos de campos propios del sistema, son clases ya formadas
+ que implementan métodos para definir el tipo de campo que guardará un tipo de dato específico
+ en una tabla de la base de datos

@@ -1,0 +1,7 @@
+1)Logramos Configurar el modulo de CRM de acuerdo al laboratorio donde posteriormente
+creamos oportunidades iniciativas de ventas, canales de venta, cotizaciones, etc.
+2)Logramos crear un grupo de vendedores en la cual uno de ellos es el responsable de los demas.
+3)Logramos instalar el modulo Website Builde que nos permitira crear nuestra pagina web, blog, eventos en linea, etc.
+4)Para poder configurar nuestra pagina web ingresaremos al modo de personalizacion donde podremos arrastrar 
+objetos a nuestra pagina web para una mejor apariencia.
+5)Logramos la importacion y exportacion de contactos y clientes en un archivo CSV.

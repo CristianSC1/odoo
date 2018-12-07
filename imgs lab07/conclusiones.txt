@@ -1,0 +1,9 @@
+﻿1)Logramos importar y exportar grandes cantidades de datos utilizando un excel y cambiando algunos parametros
+  para su correcta importacion y exportación.
+2)Logramos utilizar de manera eficaz el modulo de ventas donde podemos restringir y hacer cualquier
+  tipo de algoritmos para que el vendedor y el cliente tengan algunos venificios.
+3)Pudimos crear un metodo de pago mediante visa y generar factura.
+4)El modulo de facturacion es configurable para añadir mas cosas o mejores vistas al momento de emitir la venta 
+  como cambiar el logo de la empresa como tambien incorporar un algoritmo de venta.
+5)Creamos productos y al mismo tiempo logramos configurar el modulo para que los productos tengan tamaño 
+  unidades de media, si estas estan regidas a un IGV, Etc.

@@ -1,0 +1,9 @@
+﻿1)Logramos modificar los datos de nuestra empresa o compania con la cual generaremos cotizaciones, 
+facturaciones,etc con el nombre y correo empresarial de nuestra compania.
+2)Con el modulo CRM pudimos crear oportunidades de venta donde iremos incorporando cada cotizacion para 
+iniciarlo como nuevo para que posteriormente pase a calificado, propuesta, y ganadas.
+3)El modulo de CRM nos permitira Obtener la información que necesitamos para tomar decisiones más inteligentes
+y como tambien diseñar paneles personalizados para obtener una imagen de su negocio de un vistazo;
+podemos realizar informes en tiempo real y diagramas de flujo que cualquier persona puede crear y compartir.
+4)El modulo de CRM depende de los modulos equipo de ventas, correo, Instalado, calendario, recurso y contactos.
+5)Como casi en todo modulo este modulo de CRM puede ser configurable mediante el editor de vistas atravez del codigo XML.
